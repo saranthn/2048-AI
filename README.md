@@ -13,14 +13,8 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#how-to-use">How to use</a></li>
-      </ul>
     </li>
-    <li><a href="#running-the-tests">Running the tests</a></li>
-    <li><a href="#contributors">Contributors</a></li>
-    <li><a href="#reference">Reference</a></li>
+    <li><a href="#heuristics">Heuristics</a></li>
   </ol>
 </details>
 
