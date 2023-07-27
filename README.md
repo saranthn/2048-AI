@@ -42,6 +42,8 @@ Player moves them.
 
 I used adversial search techniques and **Expectiminimax** algorithm to develop this game.
 
+![Game](https://github.com/saranthn/2048-AI/blob/main/2048.png)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
